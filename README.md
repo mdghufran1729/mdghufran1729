@@ -12,7 +12,7 @@ strongly interested in working in a fast-paced environment.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdghufran1729&label=Profile%20views&color=0e75b6&style=flat" alt="mdghufran" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://mdghufran1729.github.io/](https://mdghufran1729.github.io/)
+- 👨‍💻 All of my projects are available at [https://mdghufran1729.github.io](https://mdghufran1729.github.io)
 
 - 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java | python**
 
